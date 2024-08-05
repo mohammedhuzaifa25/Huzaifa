@@ -247,11 +247,11 @@
   }
 }
 #web1{
-  background-image: url("images/web1.avif");
+  background-image: url("/images/web1.avif");
   background-size: cover;
 }
 #img2{
-  background-image: url("images/webdevimg.avif");
+  background-image: url("/images/webdevimg.avif");
   background-size: cover;
 }
 #img3{
@@ -263,11 +263,11 @@
   background-size: cover;
 }
 #img5{
-  background-image: url("images/speakingimg.jpeg");
+  background-image: url("/images/speakingimg.jpeg");
   background-size: cover;
 }
 #img6{
-  background-image: url("images/boardimg.jpg");
+  background-image: url("/images/boardimg.jpg");
   background-size: cover;
 }
 .project-container{
